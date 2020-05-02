@@ -1,0 +1,20 @@
+#highscore-link {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+#timer {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#intro {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.hide {
+    visibility: hidden;
+}
