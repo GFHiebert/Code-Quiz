@@ -16,5 +16,28 @@
 }
 
 .hide {
-    visibility: hidden;
+    display: none;
+}
+
+#questions {
+    text-align: center;
+    margin-top: 80px;
+    
+}
+
+.choice-button {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5px;
+    width: 140px;
+}
+
+#end-quiz {
+    text-align: center;
+}
+
+#highscore-page {
+    margin: 50px 30% auto 30%;
+    
+    text-align: center;
 }
